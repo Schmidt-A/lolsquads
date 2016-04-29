@@ -8,7 +8,6 @@ Requirements
  - postgresql >= 9.4
  - django postgresql contrib
  - psycopg2
- - love
 
     ```sudo pip install django django-contrib-postgres psycopg2```
 
