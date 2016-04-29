@@ -9,7 +9,7 @@ Requirements
  - django postgresql contrib
  - psycopg2
 
-    ```sudo pip install django django-contrib-postgres psycopg2```
+```sudo pip install django django-contrib-postgres psycopg2```
 
 Setup
 -----
